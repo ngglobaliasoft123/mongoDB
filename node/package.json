@@ -1,0 +1,17 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "mongoDB connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "nirali",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.5.9"
+  }
+}
